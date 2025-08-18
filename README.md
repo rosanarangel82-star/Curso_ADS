@@ -1,5 +1,3 @@
-OiMeu nome é Rosana Rangel
-Estudante de Análise e Desenvolvimento de Sistemas
 Projeto: Calculadora de Orçamento Pessoal
 
 Especificações Técnicas Obrigatórias
@@ -8,7 +6,10 @@ Desenvolva uma aplicação web simples que permita ao usuário registrar suas de
 
 Tecnologias utilizadas:
 
-Reagir; JavaScript (ES6+); HTML5; CSS3.
+React; 
+JavaScript (ES6+); 
+HTML5; 
+CSS3.
 
 O que aprendeu:
 
@@ -22,5 +23,6 @@ Renderização Condicional: lógica para exibir diferentes partes da interface c
 
 🌍 Estou em Salto-SP
 ✉️ Você pode entrar em contato comigo pelo e-mail rosana.camargodasilva82@gmail.com
+
 Sociais
 GitHub LinkedInsrc="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>

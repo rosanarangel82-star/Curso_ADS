@@ -4,8 +4,28 @@ Oi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Estudante de Análise e Desenvolvimento de Sistemas
 --------------------------------------------------
 
-Profissional em transição para Tecnologia da Informação, com ênfase em Análise de Dados e Inteligência Artificial. Atualmente cursando Análise e Desenvolvimento de Sistemas e Pós-graduação em Ciência de Dados e IA, unindo sólida formação acadêmica a um compromisso com aprendizado contínuo.
-Minha trajetória na Educação me proporcionou competências essenciais em comunicação clara, organização e resolução de problemas, que hoje aplico em projetos de tecnologia e análise de dados. Tenho interesse em atuar em ambientes colaborativos, contribuindo para transformar dados em insights estratégicos e apoiar a inovação em TI.
+Projeto: Calculadora de Orçamento Pessoal
+
+Especificações Técnicas Obrigatórias
+
+Desenvolver uma aplicação web simples que permita ao usuário registrar suas despesas e visualizar um resumo mensal. Esse foi meu primeiro projeto utilizando React, focado em aplicar conceitos fundamentais de front-end.
+
+Tecnologias utilizadas:
+
+React;
+JavaScript (ES6+);
+HTML5;
+CSS3.
+
+O que aprendi:
+
+Gerenciamento de Estado: utilização do hook "useState" para controlar os dados da aplicação de forma reativa;
+
+Componentização: criação e reutilização de componentes para a UI, como "Botao" e "Input";
+
+Props: passagem de dados e funções entre componentes ("pai para filho");
+
+Renderização Condicional: lógica para exibir diferentes partes da interface com base no estado da aplicação.
 
 * 🌍  I'm based in Salto-SP
 * ✉️  You can contact me at [rosana.camargodasilva82@gmail.com](mailto:rosana.camargodasilva82@gmail.com)

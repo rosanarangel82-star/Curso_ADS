@@ -77,11 +77,6 @@ src/
 
 ---
 
-## 📸 Demonstração
-![preview](./screenshot.png)
-
----
-
 ## 👨‍💻 Autor
 Feito com ❤️ por rosanarangel82-star (https://github.com/rosanarangel82-star/Curso_ADS).
 
